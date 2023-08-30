@@ -1,3 +1,4 @@
+maintainer="DarkToaster <info@darkly.biz>"
 pkgname=teamspeak5
 pkgver=5.0.0beta74
 pkgrel=1
